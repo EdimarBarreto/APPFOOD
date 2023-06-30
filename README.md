@@ -31,7 +31,6 @@ localhost:3000/categories
 Na requisição POST no insomnia, podemos selecionar a aba Body, e no submódulo TEXT, selecionar a opção JSON. Dessa forma podemos escrever os parâmetros e seu conteúdo na parte "digitável" da página que será liberada. Podemos escrever conforme abaixo, onde usei o exemplo de um ícone de pizza.
 
 {
-
     "name": "Pizza",
     "icon": "🍕"
 }
