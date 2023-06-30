@@ -32,6 +32,7 @@ Na requisição POST no insomnia, podemos selecionar a aba Body, e no submódulo
 
 {
     "name": "Pizza",
+    
     "icon": "🍕"
 }
 
